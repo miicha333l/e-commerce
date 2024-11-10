@@ -1,0 +1,17 @@
+/* src/pages/Cart.css */
+.quantity-controls {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  .quantity-controls button {
+    padding: 5px 10px;
+    font-size: 1em;
+  }
+  
+  .quantity-controls span {
+    font-weight: bold;
+  }
+  
