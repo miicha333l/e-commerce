@@ -27,6 +27,13 @@ Ce projet est une boutique en ligne moderne réalisée avec React.
 - Footer avec réseaux sociaux
 - Navigation entre les pages
 
+
+## Liens utiles
+
+- [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20" style="vertical-align:middle;"/> GitHub du projet](https://github.com/TON_NOM_UTILISATEUR/e-commerce)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="20" style="vertical-align:middle;"/> Documentation React](https://reactjs.org/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="20" style="vertical-align:middle;"/> Facebook](https://facebook.com)
+
 ## Auteur
 
 Votre nom
